@@ -32,33 +32,3 @@ I'm a Computer Science & Engineering student at UCLA who enjoys stepping into un
 |:---|:---|:---|
 | <img width="210" src="https://skillicons.dev/icons?i=cpp,python,java,ts,js&perline=5&theme=dark" /> | <img width="250" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,mongodb,postgres&perline=6&theme=dark" /> | <img width="250" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,githubactions&perline=6&theme=dark" /> |
 | Systems programming and automation | Full-stack products and AI systems | Infrastructure, networking, and observability |
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=lianlinton&bg_color=0D1117&color=C9D1D9&line=A5B4FC&point=E0E7FF&area_color=6366F1&area=true&hide_border=true&custom_title=recent%20activity"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=lianlinton&bg_color=FFFFFF&color=24292F&line=4F46E5&point=3730A3&area_color=A5B4FC&area=true&hide_border=true&custom_title=recent%20activity"
-  >
-  <img
-    width="66%"
-    alt="Recent GitHub activity"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lianlinton&theme=github-compact&hide_border=true&custom_title=recent%20activity"
-  >
-</picture><picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lianlinton&theme=github_dark"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lianlinton&theme=github"
-  >
-<img
-  width="32%"
-  alt="GitHub statistics"
-  src="https://github-readme-stats.vercel.app/api?username=lianlinton&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=FFFFFF&title_color=3730A3&text_color=334155&icon_color=6366F1&border_color=D0D7DE&hide_border=false"
->
-</picture>
