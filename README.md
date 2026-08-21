@@ -20,7 +20,7 @@
   </a>
 </h3>
 
-I'm a Computer Science & Engineering student at UCLA who enjoys stepping into unfamiliar systems and understanding how their pieces fit together. Currently, I'm building network observability tools at Oracle Cloud Infrastructure and AI-powered research systems at UCLA, with an eye for clear code and thoughtful interfaces.
+I’m a senior studying Computer Science & Engineering at UCLA. I’ve worked on cloud infrastructure at Oracle and research software at UCLA. I enjoy diving into unfamiliar systems, exploring different areas of technology, and learning as the field continues to evolve.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=650&color=A5B4FC&vCenter=true&width=720&height=30&lines=cloud+infrastructure+%2B+distributed+systems;network+observability+%2B+security;applied+AI+%2B+accessible+technology">
